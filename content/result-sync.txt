@@ -1,0 +1,1 @@
+Here is the result : Hello am learning node.js to improve on myself. this is text 1, My name is Bryan and I will be a pilot. Hello this text 2
